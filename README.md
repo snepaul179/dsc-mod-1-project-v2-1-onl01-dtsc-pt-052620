@@ -1,10 +1,10 @@
 # Entertainment | Entertainment | Entertainment 
 
-Everyone like some sort of entertainment. And what better and affordable entertainment then movies. Action, drama, comedy, and somtimes all three in one. Although there aren't many factors which makes a movie great such as Pulp Fiction. Recently my colleuges and I were reached out by a multi-national company, 'Microsoft" to determine an ideal formula to make a succesfull movie.
+Everyone like some sort of entertainment. And what better and affordable entertainment then movies. Action, drama, comedy, and somtimes all three in one. Although there aren't many factors which makes a movie great such as Pulp Fiction. Recently my colleagues and I were reached out by a multi-national company, 'Microsoft" to determine an ideal formula to make a successful movie.
 
 Before diving into any great project, we conducted our analysis on market and the company:
 
-Diliverables: 
+Deliverables: 
 Data analysis on avaliable movie data extrapulating on multiple factors and trends to create a detailed report and our recomendations for a new production of film
 
 To continue we assumed certain things about the company:
@@ -22,7 +22,7 @@ We divided our project into 3 segments:
 
 # 1) Data Gathering and research
 
-There was lot of back and forth from research and data gathering. Research would shep light on what type of data is required or can be used for our analysis. And data gthering would be tedious work with lot of blanks or mismatched data. 
+There was lot of back and forth from research and data gathering. Research would shed light on what type of data is required or can be used for our analysis. And data gathering would be tedious work with lot of blanks or mismatched data. 
 
 All the data gathered or generated can be found under Data foler. 
 
@@ -122,7 +122,7 @@ Some articles Referenced for our research were:
 
 After all the research and Data gathering, our next step was to understand the type of data we have and what kind of new features we can generate. 
 
-First step was to combine all the fragmented data and turn them into usable fields. Mostly all the data was in a string format. So we convereted all the dollar values($) into `float` data type and all the dates and years were coverted to `datetime` data type. 
+First step was to combine all the fragmented data and turn them into usable fields. Mostly all the data was in a string format. So we converted all the dollar values($) into `float` data type and all the dates and years were coverted to `datetime` data type. 
 
 From our research we realized that due to production accounting methods most of the movies dont make profit on paper. As per stephenfollows.com market budget (not included) could be as much as production budget. However, revenue generation for movies can continue after movie have stopped showing in theaters. So to keep it simple we only used profit generated as ratio based on production cost and Global/Domestic/Worldwide revenues. 
 
@@ -154,16 +154,15 @@ based on on our research we decided to focus our analysis on following 3 main qu
 
 1) How movie genre affects profit for production companies:
     a) We will also analyse which season a particular genre can be released
-    b) Which genres succeed internationally
 2) How production cost and the Rating/pularity effect profits
     a) See if number of views is what matters
     b) See if higher production costs get more views
 3) How does the number of movies created by a studio affect the average profit
-    a) Do franchises do better?
+
 
 ### Analysis 1) Profit vs Genres
 
-For this analysis ensure that each of its genres is represented in the dataset by spliting the genres into individual row. 
+For this analysis ensure that each of its genres is represented in the dataset by splitting the genres into individual row. 
 
 ![Profit VS Genres]()
 
