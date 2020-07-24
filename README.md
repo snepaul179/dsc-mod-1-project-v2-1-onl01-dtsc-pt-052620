@@ -255,6 +255,8 @@ As said by [Steve Job](https://filmtrooper.com/129-movies-make-money/) while bei
 
 ![numMovies_vs_profit](https://github.com/snepaul179/dsc-mod-1-project-v2-1-onl01-dtsc-pt-052620/tree/master/Images/numMovies_vs_profit.png)
 
+As the number of movie releases in a year increases for a studio, the profitability of that studio seems to increase. This could be explained by a few reasons, one of which being: Studios that create profitable movies tend to produce more movies in a year.
+
 
 
 # Conclusion
@@ -266,13 +268,18 @@ A) We recommend that central plot or style of the movies should be around follow
     1) Animation
     2) Action
     3) Adventure
-    4) Family
-    5) Sci-Fi
-    6) Fantasy
+    **Sub Geners could be**
+    - Family
+    - Sci-Fi
+    - Fantasy
 
 B) To see most return on investment we should plan to release those movies around summer (May-Jul). Due to summer holidays more audience will be available to spend an eveving for a good affordable entertainment
 
 c) We should focus our marketing to reach as many audiences as possible. Meaning reaching users on multiple platforms to inform about our new mega movie which requires a big budget. 
+
+d) Release about 3-4 0.5 - 1.0 billion budget movies a year for a steady net profits. It would avoid any bad year due to single mega movie flop.
+
+
 
 
 
@@ -282,7 +289,14 @@ c) We should focus our marketing to reach as many audiences as possible. Meaning
 
 1) Does opening week fan rating increase revenue?
 2) Relate number of region the movie was released in with international market cut
-3) International market appeal. Which genres succeed internationally?
+3) International market appeal. Which genres succeed worldwide?
+4) Explore the individuals responsible for making profitable movies
+    - Actors, writers, and directors
+    - Sub categorize them by each genre
+5) Finally, what combinations of genres do well?
+    - What combinations do better than their individual parts?
+
+
 
 
  
