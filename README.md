@@ -1,5 +1,6 @@
 # Entertainment | Entertainment | Entertainment 
 
+
 Everyone love some sort of entertainment. And what’s better and affordable entertainment then movies. Action, drama, comedy, and sometimes all three in one. Although there aren't many factors which makes a movie great such as Pulp Fiction.  
 
 ![Pulp Fiction Poster](https://github.com/snepaul179/dsc-mod-1-project-v2-1-onl01-dtsc-pt-052620/tree/master/Images/pulpfiction.jpeg)
@@ -29,7 +30,9 @@ Based on our Analysis our recommendation would be:
 Before diving into any great project, we conducted our analysis on market and the company:
 
 Deliverables: 
+
 Analysis on available movie data extrapolating on multiple factors and trends to create a detailed report and our recommendations for a new production of film
+
 
 We assumed certain things about the company:
 
@@ -151,7 +154,6 @@ First step was to combine all the fragmented data and turn them into usable fiel
 From our research we realized that due to production accounting methods most of the movies don't make profit on paper. As per stephenfollows.com market budget (not included) could be as much as production budget. However, revenue generation for movies can continue after a movie has stopped showing in theaters. So to keep it simple we only used profit generated as a ratio based on production cost and Global/Domestic/Worldwide revenues. 
 
 
-
 ### Feature Engineering
 
 To account for inflation (at rate of 3.22% as per [inflationdata.com](https://inflationdata.com/Inflation/Inflation_Rate/Long_Term_Inflation.asp)). We adjusted our dollar values based on the movie release year. 
@@ -185,7 +187,6 @@ Based on our research we decided to focus our analysis on the following 3 main t
     a) See if number of views is what matters
     b) See if higher production costs get more views
 3) How does the number of movies created by a studio affect the average profit
-    a) Do franchises do better?
 
 
 ### Analysis 1) Profit vs Genres
